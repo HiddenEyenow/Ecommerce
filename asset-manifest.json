@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.227f4a11.css",
-    "main.js": "/static/js/main.34e983c2.js",
+    "main.css": "/static/css/main.f52f9c68.css",
+    "main.js": "/static/js/main.1c2b714c.js",
     "static/media/shutterstock_73535212.jpg": "/static/media/shutterstock_73535212.bbc08030ee00f3edb8a3.jpg",
     "static/media/free-delivery-badge-icon-gold-ribbon-113705089-removebg-preview.png": "/static/media/free-delivery-badge-icon-gold-ribbon-113705089-removebg-preview.9c29f38ee6fd590eec81.png",
     "static/media/free-shipping-golden-removebg-buono.png": "/static/media/free-shipping-golden-removebg-buono.36b7bdcbe34e4186d002.png",
@@ -9,11 +9,11 @@
     "static/media/logo.jpg": "/static/media/logo.20b76ed454ddbb88ecec.jpg",
     "static/media/quote.svg": "/static/media/quote.c6c890543c978d6999c74e9f83661097.svg",
     "index.html": "/index.html",
-    "main.227f4a11.css.map": "/static/css/main.227f4a11.css.map",
-    "main.34e983c2.js.map": "/static/js/main.34e983c2.js.map"
+    "main.f52f9c68.css.map": "/static/css/main.f52f9c68.css.map",
+    "main.1c2b714c.js.map": "/static/js/main.1c2b714c.js.map"
   },
   "entrypoints": [
-    "static/css/main.227f4a11.css",
-    "static/js/main.34e983c2.js"
+    "static/css/main.f52f9c68.css",
+    "static/js/main.1c2b714c.js"
   ]
 }
