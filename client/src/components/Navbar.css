@@ -1,0 +1,73 @@
+@media (max-width: 1072px) {
+  .Nome_store_navbar {
+    font-size: 22px;
+  }
+}
+
+@media (max-width: 700px) {
+  .Nome_store_navbar {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 1030px) {
+  .icona_carrello {
+    margin-right: 19px;
+    margin-left: 3px;
+  }
+}
+
+@media (max-width: 1030px) {
+  .Right {
+    justify-content: flex-start;
+    margin-left: 0px;
+  }
+}
+
+@media (max-width: 715px) {
+  .icona_carrello {
+    margin-top: 10px;
+  }
+}
+
+@media (max-width: 450px) {
+  .icona_carrello {
+    margin-right: 25px;
+    margin-left: 0px;
+  }
+}
+
+@media (max-width: 750px) {
+  .Nome_store_navbar {
+    display: none;
+  }
+
+  .NavbarLink {
+    display: none;
+  }
+}
+
+.NavbarLink {
+  color: white;
+  font-size: large;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  margin: 10px;
+  margin-left: 4px;
+  cursor: pointer;
+}
+
+@media (max-width: 900px) {
+  .NavbarLink {
+    font-size: small;
+  }
+}
+
+.NavbarLinkExtended {
+  color: white;
+  font-size: small;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: none;
+  margin: 5px 10px;
+  cursor: pointer;
+}
